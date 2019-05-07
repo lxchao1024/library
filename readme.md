@@ -15,3 +15,8 @@
 8、缩放ImageView：https://github.com/chrisbanes/PhotoView
 
 9、ButterKnife注解：https://github.com/JakeWharton/butterknife
+
+10、图片采集：https://github.com/yizhisu/Android-ImageCrop
+
+
+如有侵权，通知我下架！
